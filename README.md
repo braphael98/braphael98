@@ -3,7 +3,6 @@
 🎓 Estudante de Ciência da Computação na **URI Erechim**  
 🐍 Apaixonado por **Python (especialmente com Django)**  
 🐘 Curto também programar em **PHP**  
-🎮 Fã de **fighting games**, especialmente **Tekken**  
 📚 Sempre buscando evoluir com cursos da **Alura**
 🌐 Adoro estudar idiomas, que vão alem do **ingles**.
 
