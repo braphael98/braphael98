@@ -1,7 +1,7 @@
 #  Olá! Eu sou o Bruno!
 
  Estudante de Ciência da Computação na **URI Erechim**  
- Apaixonado por **Python (especialmente com Django)**  
+ Adoro a linguagem  **Python ( Django)**  
  Curto também programar em **PHP**  
  Sempre buscando evoluir com cursos da **Alura**
  Adoro estudar idiomas, que vão alem do **ingles**.
