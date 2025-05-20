@@ -5,6 +5,8 @@
 🐘 Curto também programar em **PHP**  
 🎮 Fã de **fighting games**, especialmente **Tekken**  
 📚 Sempre buscando evoluir com cursos da **Alura**
+🌐 Adoro estudar idiomas, que vão alem do ingles.
+
 
 ---
 
@@ -14,7 +16,8 @@
 - 🐍 **Python** 
 - 🐬 **SQL** 
 - 🧰 **Git** 
-
+- 🇬🇧 🇺🇸 **INGLES AVANÇADO**
+- 🇯🇵🇫🇷 **JAPONES E FRANCES INICIANTE**
 ---
 
 ## 📈 Em constante evolução
