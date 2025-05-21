@@ -39,49 +39,46 @@ Atualmente focado em Python:
 
 
 EN-US
-Hello! I'm Bruno!
+# Hello! I'm Bruno!
 
-Computer Science student at URI Erechim
-I love the Python language and its framework (Django)
-I also enjoy programming in PHP
-I'm always looking to improve through courses from Alura
-and I love studying languages beyond just English.
-Skills
+Computer Science student at **URI Erechim**  
+I love the **Python language and its framework (Django)**  
+I also enjoy programming in **PHP**  
+I'm always looking to improve through courses from **Alura**  
+and I love studying languages beyond just **English**.
 
-    HTML/CSS
+---
 
-    PHP
+## Skills
+- **HTML/CSS**  
+- **PHP**  
+- **Python**  
+- **SQL**  
+- **Git**  
+- **Advanced English**  
+- **Beginner Japanese and French**  
 
-    Python
+---
 
-    SQL
+## Constantly Evolving
 
-    Git
+Currently focused on Python:  
+- Improving my **backend** skills  
+- Building projects with **Django and REST APIs**  
+- Learning more about **frontend development**  
 
-    Advanced English
+---
 
-    Beginner Japanese and French
+## Fun Facts About Me
 
-Constantly Evolving
+- I love playing **Tekken** and **Street Fighter**  
+- I've had experience with several programming languages (C, C++, C#, Java)  
+- I'm always curious about learning new things  
+- I believe that learning programming is like mastering a hard combo:  
+**repeat, fail, succeed, and then it becomes automatic**  
 
-Currently focused on Python:
+---
 
-    Improving my backend skills
-
-    Building projects with Django and REST APIs
-
-    Learning more about frontend development
-
-Fun Facts About Me
-
-    I love playing Tekken and Street Fighter
-
-    I've had experience with several programming languages (C, C++, C#, Java)
-
-    I'm always curious about learning new things
-
-    I believe that learning programming is like mastering a hard combo:
-    repeat, fail, succeed, and then it becomes automatic
 
 ##  lINKEDIN
 
