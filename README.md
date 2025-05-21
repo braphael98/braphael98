@@ -3,8 +3,8 @@
  Estudante de Ciência da Computação na **URI Erechim**  
  Adoro a linguagem  **Python ( Django)**  
  Curto também programar em **PHP**  
- Sempre buscando evoluir com cursos da **Alura**
- Adoro estudar idiomas, que vão alem do **ingles**.
+ Sempre buscando evoluir com cursos da **Alura** e 
+ adoro estudar idiomas, que vão alem do **ingles**.
 
 
 ---
