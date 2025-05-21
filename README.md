@@ -10,7 +10,7 @@
 ---
 
 ##  Habilidades
-
+-  **HTML/CSS**
 -  **PHP** 
 -  **Python** 
 -  **SQL** 
@@ -21,7 +21,7 @@
 
 ##  Em constante evolução
 
-Atualmente focado em:
+Atualmente focado em Python:
 - Aprimorar meus conhecimentos em **back-end**
 - Criar projetos com **Django e APIs REST**
 - Aprender mais sobre **frontend**
@@ -30,7 +30,9 @@ Atualmente focado em:
 
 ##  Curiosidades sobre mim
 
-- Adoro jogar **Tekken**, e **Street-Fighter**  
+- Adoro jogar **Tekken**, e **Street-Fighter**
+- Ja tive contato com varias linguagens de programação (C, C++, C# JAVA)
+- Tenho curiosidade em aprender coisas novas 
 - Acredito que aprender computação é como aprender combo difícil: **repete, erra, acerta, e fica automático**
 
 
