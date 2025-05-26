@@ -15,7 +15,9 @@ Portugues-Brasil
 -  **PHP** 
 -  **Python** 
 -  **SQL** 
--  **Git** 
+-  **Git**
+-  **Docker** (em andamento)
+-  **linux** (basico)
 -  **INGLES AVANÇADO**
 -  **JAPONES E FRANCES INICIANTE**
 ---
