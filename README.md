@@ -32,7 +32,7 @@ Atualmente focado em Python:
 ##  Curiosidades sobre mim
 
 - Adoro jogar **Tekken**, e **Street-Fighter**
-- Ja tive contato com varias linguagens de programação (C, C++, C# JAVA)
+- Ja tive contato com varias linguagens de programação (C, C++, C# JAVA) apenas por diversão
 - Tenho curiosidade em aprender coisas novas 
 - Acredito que aprender computação é como aprender combo difícil: **repete, erra, acerta, e fica automático**
 
@@ -72,7 +72,7 @@ Currently focused on Python:
 ## Fun Facts About Me
 
 - I love playing **Tekken** and **Street Fighter**  
-- I've had experience with several programming languages (C, C++, C#, Java)  
+- I've had contact with several programming languages (C, C++, C#, Java) just for fun 
 - I'm always curious about learning new things  
 - I believe that learning programming is like mastering a hard combo:  
 **repeat, fail, succeed, and then it becomes automatic**  
