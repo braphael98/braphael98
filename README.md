@@ -2,8 +2,7 @@ Portugues-Brasil
 #  Olá! Eu sou o Bruno! 
 
  Estudante de Ciência da Computação na **URI Erechim**  
- Adoro a linguagem  **Python e seu framework ( Django)**  
- Curto também programar em **PHP**  
+ Ando estudando **C#**, **python**, e **PHP,**
  Sempre buscando evoluir com cursos da **Alura** e 
  adoro estudar idiomas, que vão alem do **ingles**.
 
@@ -13,7 +12,8 @@ Portugues-Brasil
 ##  Habilidades
 -  **HTML/CSS**
 -  **PHP** 
--  **Python** 
+-  **Python**(Django)
+-  **C# (iniciando os estudos)
 -  **SQL** 
 -  **Git**
 -  **Docker** (em andamento)
@@ -24,9 +24,9 @@ Portugues-Brasil
 
 ##  Em constante evolução
 
-Atualmente focado em Python:
+Atualmente focado em C# .net:
 - Aprimorar meus conhecimentos em **back-end**
-- Criar projetos com **Django e APIs REST**
+- Criar projetos em .net, e API´S
 - Aprender mais sobre **frontend**
 
 ---
@@ -36,50 +36,6 @@ Atualmente focado em Python:
 - Adoro jogar **Tekken**, e **Street-Fighter**
 - Ja tive contato com varias linguagens de programação (C, C++, C# JAVA) apenas por diversão
 - Tenho curiosidade em aprender coisas novas 
-- Acredito que aprender computação é como aprender combo difícil: **repete, erra, acerta, e fica automático**
-
-
-
-EN-US
-# Hello! I'm Bruno!
-
-Computer Science student at **URI Erechim**  
-I love the **Python language and its framework (Django)**  
-I also enjoy programming in **PHP**  
-I'm always looking to improve through courses from **Alura**  
-and I love studying languages beyond just **English**.
-
----
-
-## Skills
-- **HTML/CSS**  
-- **PHP**  
-- **Python**  
-- **SQL**  
-- **Git**  
-- **Advanced English**  
-- **Beginner Japanese and French**  
-
----
-
-## Constantly Evolving
-
-Currently focused on Python:  
-- Improving my **backend** skills  
-- Building projects with **Django and REST APIs**  
-- Learning more about **frontend development**  
-
----
-
-## Fun Facts About Me
-
-- I love playing **Tekken** and **Street Fighter**  
-- I've had contact with several programming languages (C, C++, C#, Java) just for fun 
-- I'm always curious about learning new things  
-- I believe that learning programming is like mastering a hard combo:  
-**repeat, fail, succeed, and then it becomes automatic**  
-
----
 
 
 ##  lINKEDIN
