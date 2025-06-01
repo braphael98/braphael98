@@ -13,7 +13,7 @@ Portugues-Brasil
 -  **HTML/CSS**
 -  **PHP** 
 -  **Python**(Django)
--  **C# (iniciando os estudos)
+-  **C#**(iniciando os estudos)
 -  **SQL** 
 -  **Git**
 -  **Docker** (em andamento)
