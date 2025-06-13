@@ -2,7 +2,7 @@ Portugues-Brasil
 #  Olá! Eu sou o Bruno! 
 
  Estudante de Ciência da Computação na **URI Erechim**  
- Ando estudando **C#**, **python**, e **PHP,**
+ Projetos pessoais de aprendizado em **C#**, **python**, e **PHP,**
  Sempre buscando evoluir com cursos da **Alura** e 
  adoro estudar idiomas, que vão alem do **ingles**.
 
